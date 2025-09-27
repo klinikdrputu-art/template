@@ -1,52 +1,52 @@
 # [Paijo]
 
-[081271884044] | [paijo@gmail.com] | [LinkedIn Profile (opsional)] | [paijo.id]
+[0812-7188-4044] | [paijo.dev@email.com] | [linkedin.com/in/paijo-webdev] | [paijo.id]
 
 ## Ringkasan
 
-[karang saja, anggap sebagai web development.]
+Web Developer berpengalaman lebih dari 5 tahun dengan keahlian dalam pengembangan aplikasi full-stack menggunakan JavaScript (React, Node.js) dan PHP (Laravel). Memiliki rekam jejak yang terbukti dalam merancang, mengembangkan, dan memelihara situs web yang responsif dan skalabel. Bersemangat dalam memecahkan masalah kompleks dan berkolaborasi dalam tim untuk menghadirkan produk digital berkualitas tinggi.
 
 ## Pengalaman Kerja
 
-**[Karang juga]**, [Kota, Negara]
-[Jabatan] | [Tanggal Mulai] - [Tanggal Selesai (atau "Sekarang")]
-*   [Deskripsikan tugas dan tanggung jawab Anda. Gunakan poin-poin.]
-*   [Sertakan pencapaian yang terukur jika memungkinkan.]
-*   [Contoh: Meningkatkan efisiensi proses sebesar 15% melalui implementasi sistem baru.]
+**PT. Teknologi Maju**, Jakarta, Indonesia
+Senior Web Developer | Juni 2020 - Sekarang
+*   Memimpin pengembangan fitur-fitur utama untuk platform e-commerce perusahaan menggunakan React dan Node.js.
+*   Merancang dan mengimplementasikan arsitektur microservices untuk meningkatkan skalabilitas dan kemudahan pemeliharaan sistem.
+*   Melakukan code review dan memberikan bimbingan kepada 3 developer junior untuk memastikan kualitas kode dan standar pengembangan.
+*   **Pencapaian:** Meningkatkan kecepatan loading website sebesar 40% dengan optimasi query database dan implementasi teknik *lazy loading*.
 
-**[Karang juga]**, [Kota, Negara]
-[Jabatan] | [Tanggal Mulai] - [Tanggal Selesai]
-*   [Deskripsikan tugas dan tanggung jawab Anda.]
-*   [Sertakan pencapaian yang terukur jika memungkinkan.]
+**Agensi Digital Kreatif**, Bandung, Indonesia
+Web Developer | Juli 2018 - Mei 2020
+*   Mengembangkan dan memelihara website untuk berbagai klien dari berbagai industri menggunakan WordPress dan Laravel.
+*   Berkolaborasi dengan tim desainer UI/UX untuk menerjemahkan desain menjadi kode front-end yang fungsional dan piksel-perfect.
+*   **Pencapaian:** Berhasil mengembangkan dan meluncurkan lebih dari 15 website klien dengan tingkat kepuasan 95% berdasarkan survei pasca-proyek.
 
 ## Pendidikan
 
-**[Karang juga]**, [Kota, Negara]
-[Gelar] | [Jurusan] | [Tanggal Lulus]
-*   [IPK (opsional, jika relevan dan bagus)]
-*   [Sebutkan penghargaan atau kegiatan ekstrakurikuler yang relevan.]
+**Universitas Komputer Indonesia**, Bandung, Indonesia
+S1, Teknik Informatika | Lulus Agustus 2018
+*   IPK: 3.75 / 4.00
+*   Aktif sebagai Asisten Laboratorium untuk mata kuliah Pemrograman Web Dasar.
 
-**[Karang juga]**, [Kota, Negara]
-[Nama Program (contoh: IPA)] | [Tanggal Lulus]
+**SMA Negeri 1 Bandung**, Bandung, Indonesia
+IPA | Lulus Juni 2014
 
 ## Keterampilan
 
-*   [Keterampilan 1: Contoh: Pemrograman Python]
-*   [Keterampilan 2: Contoh: Manajemen Proyek]
-*   [Keterampilan 3: Contoh: Analisis Data]
-*   [Keterampilan 4]
-*   [Keterampilan 5]
-*   [Dan seterusnya. Kelompokkan keterampilan yang serupa (misalnya, keterampilan teknis, keterampilan lunak).]
+*   **Front-End:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Tailwind CSS
+*   **Back-End:** Node.js, PHP, Laravel, Express.js
+*   **Database:** MySQL, PostgreSQL, MongoDB
+*   **Lainnya:** Git, Docker, RESTful API, Agile/Scrum, CI/CD
 
 ## Penghargaan & Sertifikasi (opsional)
 
-*   [Nama Penghargaan], [Pemberi Penghargaan], [Tanggal]
-*   [Nama Sertifikasi], [Penyelenggara Sertifikasi], [Tanggal]
+*   Certified Laravel Developer, Laracasts, 2021
+*   Juara 2 Lomba Web Design Tingkat Nasional, Kemendikbud, 2017
 
 ## Kegiatan Sukarela (opsional)
 
-*   [Nama Organisasi], [Peran], [Tanggal Mulai] - [Tanggal Selesai]
-    *   [Deskripsikan kegiatan Anda dan dampak yang Anda berikan.]
+*   **Code for Bandung**, Mentor Relawan, 2019 - 2020
+    *   Membantu organisasi non-profit lokal membangun kehadiran digital mereka dengan membuatkan website sederhana.
 
 ## Referensi
 
